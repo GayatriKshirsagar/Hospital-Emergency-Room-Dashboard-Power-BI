@@ -36,14 +36,6 @@ This Power BI project delivers a comprehensive analysis of emergency room (ER) o
 
 ---
 
-### 4. Key Takeaways Dashboard
-**Objective:** Summarize findings and offer actionable insights for decision-makers.
-
-**Highlights:**
-- Descriptive insights on patient trends and bottlenecks
-- Operational recommendations based on identified patterns (e.g., high wait times, peak hours, referral surges)
-
----
 
 ## 📌 Key Performance Indicators (KPIs)
 
